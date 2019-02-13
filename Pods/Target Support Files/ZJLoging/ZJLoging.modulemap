@@ -1,0 +1,6 @@
+framework module ZJLoging {
+  umbrella header "ZJLoging-umbrella.h"
+
+  export *
+  module * { export * }
+}

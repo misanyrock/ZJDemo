@@ -1,0 +1,22 @@
+PODS:
+  - ZJLoging (0.1.0):
+    - ZJNetworking
+  - ZJNetworking (0.1.0)
+
+DEPENDENCIES:
+  - ZJLoging (from `Lib/ZJLoging`)
+  - ZJNetworking (from `Lib/ZJNetWorking`)
+
+EXTERNAL SOURCES:
+  ZJLoging:
+    :path: Lib/ZJLoging
+  ZJNetworking:
+    :path: Lib/ZJNetWorking
+
+SPEC CHECKSUMS:
+  ZJLoging: 973b761d2d78e9d8f28941f5504da35fe5721c75
+  ZJNetworking: 068f5fecc0e2116e26e078eeb1c45a6625ac8dd1
+
+PODFILE CHECKSUM: 2b2cf919475b7e993a6aec3f073c58ee5c3ab3c0
+
+COCOAPODS: 1.5.3
